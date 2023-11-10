@@ -1,11 +1,11 @@
 {
-  "name": "EventBooster",
+  "name": "event-booster",
   "version": "2.0.0",
   "description": "Search for events around the world",
-  "homepage": "https://valeriia-styfurak.github.io/EventBooster",
+  "homepage": "https://valeriia-styfurak.github.io/event-booster",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /EventBooster/"
+    "build": "parcel build src/*.html --public-url /event-booster/"
   },
   "repository": {
     "type": "git",
