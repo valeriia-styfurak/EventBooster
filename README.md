@@ -32,9 +32,10 @@ This project was developed as part of a programming course, in collaboration wit
 
 ## Collaborators
 
-* <img src="https://avatars.githubusercontent.com/u/104761722?v=4" width="20px"/>  [Kopchuk Maksym](https://github.com/KopchukMaksym) 
-* <img src="https://avatars.githubusercontent.com/u/48929257?v=4" width="20px"/>   [Yuriy Dovzhyk](https://github.com/ydovzhyk)
-* <img src="https://avatars.githubusercontent.com/u/102989300?v=4" width="20px"/>  [Bohdan Budzyk](https://github.com/WebHawky)
-* <img src="https://avatars.githubusercontent.com/u/102423500?v=4" width="20px"/>  [Fatime Abel](https://github.com/fatime4)
-* <img src="https://avatars.githubusercontent.com/u/104251403?v=4" width="20px" /> [Vyacheslav Pravda](https://github.com/slavapravda)
+* <img src="https://avatars.githubusercontent.com/u/48929257?v=4" width="20px"/>   [Yuriy Dovzhyk](https://github.com/ydovzhyk) – team lead, frontend developer
+* <img src="https://avatars.githubusercontent.com/u/95078901?v=4" width="20px"/>   [Valeriia Styfurak](https://github.com/valeriia-styfurak) – scrum master, frontend developer
+* <img src="https://avatars.githubusercontent.com/u/104761722?v=4" width="20px"/>  [Kopchuk Maksym](https://github.com/KopchukMaksym) – frontend developer
+* <img src="https://avatars.githubusercontent.com/u/102989300?v=4" width="20px"/>  [Bohdan](https://github.com/WebHawky) – frontend developer
+* <img src="https://avatars.githubusercontent.com/u/102423500?v=4" width="20px"/>  [Fatime Abel](https://github.com/fatime4) – frontend developer
+* <img src="https://avatars.githubusercontent.com/u/104251403?v=4" width="20px" /> [Vyacheslav Pravda](https://github.com/slavapravda) – frontend developer
 
