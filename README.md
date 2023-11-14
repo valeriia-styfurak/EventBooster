@@ -17,6 +17,16 @@ This project was developed as part of a programming course, in collaboration wit
 - **Theme Toggle**: Option to switch between light and dark themes.
 - **Navigation**: Easy scrolling to the top of the page and navigation to the home page via the logo.
 
+## Responsive Design
+
+The web application is fully responsive, ensuring a seamless user experience across various devices. It incorporates the following breakpoints:
+
+- **Mobile**: 320px
+- **Tablet**: 768px
+- **Desktop**: 1280px
+
+This responsive design approach ensures that the site is accessible and user-friendly on a wide range of devices, from mobile phones to desktop computers.
+
 ## Technology Stack
 
 - **Frontend**: HTML, CSS, SASS, JavaScript
